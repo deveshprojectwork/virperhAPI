@@ -1,0 +1,4 @@
+//https://www.youtube.com/watch?v=WhzIjYQmWvs&t=252s
+
+tsc
+yarn start
